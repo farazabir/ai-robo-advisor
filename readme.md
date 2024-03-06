@@ -2,6 +2,10 @@
 
 A Django-based AI Robo Advisor leveraging OpenAI to provide personalized investment strategies and financial advice tailored to user inputs and preferences.
 
+
+##Preview:
+![image](https://github.com/farazabir/ai-robo-advisor/assets/62275863/fef3dcde-238a-48e5-a502-f9057255b647)
+
 ## Installation
 
 To set up the project using Docker for both the backend (Django) and frontend, follow these steps:
