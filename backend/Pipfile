@@ -7,7 +7,8 @@ name = "pypi"
 djangorestframework = "*"
 openai = "==0.28"
 python-dotenv = "*"
-psycopg2 = "*"
+cors = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
