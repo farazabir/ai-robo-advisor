@@ -5,6 +5,8 @@ A Django-based AI Robo Advisor leveraging OpenAI to provide personalized investm
 
 ##Preview:
 ![image](https://github.com/farazabir/ai-robo-advisor/assets/62275863/fef3dcde-238a-48e5-a502-f9057255b647)
+![image](https://github.com/farazabir/ai-robo-advisor/assets/62275863/041f7177-0d35-48a2-af03-6ca2288ace91)
+
 
 ## Installation
 
